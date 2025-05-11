@@ -134,22 +134,7 @@ main {
     text-align: right;
 }
 
-.aligned-text_center-shift {
-    position: relative;
-    top: 7px;
-    left: 29px;
-}
-
-.aligned-text_right-shift {
-    position: relative;
-    left: 30px;
-    top: 27px;
-}
-
-.cover__description-text {
-    position: relative;
-    top: 1px;
-    right: 29px;
+.cover__description-text {    
     line-height: 1.2;
     color: #FFF;
     font-size: 22px;
