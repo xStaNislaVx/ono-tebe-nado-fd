@@ -1,1 +1,1 @@
-https://github.com/xStaNislaVx/ono-tebe-nado
+git@github.com:xStaNislaVx/ono-tebe-nado-fd.git
